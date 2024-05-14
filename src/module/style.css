@@ -1,0 +1,13 @@
+body {
+    font-family: Tahoma, sans-serif;
+}
+
+.quick {
+    font-family: "Courier New", Monospace;
+    text-align: left;
+    font-size: 12px;
+}
+
+pre {
+    white-space: pre-wrap;
+}
